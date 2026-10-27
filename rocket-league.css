@@ -1,1 +1,10 @@
+.custom {
+    background: transparent !important;
+}
 
+.custom .face {
+    background-image: url("https://raw.githubusercontent.com/Kapecv/Game-Pad-Rocket-League/main/Neonowy%20kontroler%20Rocket%20League.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
